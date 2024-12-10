@@ -1,4 +1,4 @@
-# Qosh.Keldin.github.i
+
 modern_html_content = """
 <!DOCTYPE html>
 <html lang="kk">
